@@ -64,9 +64,3 @@ The CNN-LSTM model performed the best in terms of accuracy, but it required sign
 - **SHAP (SHapley Additive exPlanations)**: Used to assess global feature importance across the entire dataset.
 
 Both LIME and SHAP were used to provide transparency in the decision-making process of the models, particularly with Random Forest and SVM, showing how MFCCs and chroma features were critical for accurate raga classification.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/raga-classification.git
