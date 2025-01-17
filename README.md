@@ -13,10 +13,6 @@ This project aims to automate the classification of ragas from Indian classical 
   - [Models Used](#models-used)
 - [Results](#results)
 - [Interpretability and Explainability](#interpretability-and-explainability)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Project Summary
 Indian classical music, particularly its ragas, has a deep emotional and cultural significance. However, classifying ragas from audio recordings presents unique challenges due to variability in performance, lack of standardized notation, and cultural nuances. This project focuses on using machine learning to classify ragas automatically and interpret the decisions made by the models to better understand the classification process.
